@@ -1,0 +1,27 @@
+#counter{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    color: blueviolet;
+}
+
+body{
+    background-color: bisque;
+    text-align: center;
+
+}
+
+#decBtn{
+    font-size: 25px;
+
+}
+
+#incBtn{
+    font-size: 25px;
+
+}
+
+#resetBtn{
+    font-size: 25px;
+
+}
